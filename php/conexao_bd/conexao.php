@@ -1,5 +1,5 @@
 <?php
-    $servername = "samuel123.hopto.org";
+    $servername = "192.168.0.79";
     $username = "samuel";
     $password = "5Fg@60r*1mwY";
     $database = "produtos";
